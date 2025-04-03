@@ -1,2 +1,2 @@
 # COURSE-MAP
-Web Application
+Web Application for computer science students
